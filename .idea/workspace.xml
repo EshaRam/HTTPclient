@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="39a395fc-e18c-4f17-9a48-6b3bc274f231" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aof2Eksa7T4gENH5cg7wZqILMv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="TestNG.ContentValidation">
+    <configuration name="ContentValidation" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="httpProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="httpRequests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="httpRequests" />
+      <option name="MAIN_CLASS_NAME" value="httpRequests.ContentValidation" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContentValidation.contentValidation" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="httpProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="httpRequests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="httpRequests" />
+      <option name="MAIN_CLASS_NAME" value="httpRequests.ContentValidation" />
+      <option name="METHOD_NAME" value="contentValidation" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RequestTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="httpProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="httpRequests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="httpRequests" />
+      <option name="MAIN_CLASS_NAME" value="httpRequests.RequestTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RequestTest.getRequest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="httpProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="httpRequests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="httpRequests" />
+      <option name="MAIN_CLASS_NAME" value="httpRequests.RequestTest" />
+      <option name="METHOD_NAME" value="getRequest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ResponseBody" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="httpProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="httpRequests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="httpRequests" />
+      <option name="MAIN_CLASS_NAME" value="httpRequests.ResponseBody" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.ContentValidation" />
+        <item itemvalue="TestNG.ContentValidation.contentValidation" />
+        <item itemvalue="TestNG.RequestTest" />
+        <item itemvalue="TestNG.ResponseBody" />
+        <item itemvalue="TestNG.RequestTest.getRequest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="39a395fc-e18c-4f17-9a48-6b3bc274f231" name="Default Changelist" comment="" />
+      <created>1587406657989</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587406657989</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1238" height="265" key="GridCell.Tab.0.bottom" timestamp="1596668947187">
+      <screen x="0" y="23" width="1280" height="742" />
+    </state>
+    <state width="1238" height="254" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1596050782413" />
+    <state width="1238" height="265" key="GridCell.Tab.0.bottom/0.23.1280.742@0.23.1280.742" timestamp="1596668947187" />
+    <state width="1238" height="265" key="GridCell.Tab.0.center" timestamp="1596668947187">
+      <screen x="0" y="23" width="1280" height="742" />
+    </state>
+    <state width="1238" height="254" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1596050782411" />
+    <state width="1238" height="265" key="GridCell.Tab.0.center/0.23.1280.742@0.23.1280.742" timestamp="1596668947187" />
+    <state width="1238" height="265" key="GridCell.Tab.0.left" timestamp="1596668947186">
+      <screen x="0" y="23" width="1280" height="742" />
+    </state>
+    <state width="1238" height="254" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1596050782410" />
+    <state width="1238" height="265" key="GridCell.Tab.0.left/0.23.1280.742@0.23.1280.742" timestamp="1596668947186" />
+    <state width="1238" height="265" key="GridCell.Tab.0.right" timestamp="1596668947187">
+      <screen x="0" y="23" width="1280" height="742" />
+    </state>
+    <state width="1238" height="254" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1596050782412" />
+    <state width="1238" height="265" key="GridCell.Tab.0.right/0.23.1280.742@0.23.1280.742" timestamp="1596668947187" />
+  </component>
+</project>

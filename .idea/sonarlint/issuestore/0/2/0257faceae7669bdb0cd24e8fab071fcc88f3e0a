@@ -1,0 +1,17 @@
+
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ô‹†®
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿áÍ¦úÿÿÿÿ
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¿þål
+a
+java:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(Æß–2
+W
+java:S1128"ARemove this unused import 'java.io.UnsupportedEncodingException'.(Ãµ…“
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(§ïó·
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(ÃÎÑ¤ýÿÿÿÿ
+S	java:S1063"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+N	java:S1064"9Replace this use of System.out or System.err by a logger.(Ãøê”
+t
+java:S22936"YReplace the type specification in this constructor call with the diamond operator ("<>").(âñó™ùÿÿÿÿ
+S	java:S106:"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+S	java:S106;"9Replace this use of System.out or System.err by a logger.(óÿ©ëþÿÿÿÿ

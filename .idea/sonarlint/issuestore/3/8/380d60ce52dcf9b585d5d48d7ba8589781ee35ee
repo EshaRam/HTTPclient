@@ -1,0 +1,22 @@
+
+e
+java:S1128"IRemove this unused import 'org.apache.http.conn.ClientConnectionManager'.(«ëİ8Úé¥û·.
+h
+java:S1128"KRemove this unused import 'org.apache.http.client.ClientProtocolException'.(Ê‰êÀ8Úé¥û·.
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(ÃÎÑ¤ıÿÿÿÿ8œÙ¬û·.
+R
+java:S1128"5Remove this unused import 'org.apache.http.HttpHost'.(õÑ‰¯8Úé¥û·.
+T
+java:S1128"8Remove this unused import 'org.apache.http.HttpRequest'.(Ÿÿ“8Úé¥û·.
+`
+java:S1128
+"CRemove this unused import 'org.apache.http.client.methods.HttpPut'.(È¤Á‚8Úé¥û·.
+^
+java:S1128"ARemove this unused import 'org.apache.http.protocol.HttpContext'.(‹½Óú8Úé¥û·.
+l
+java:S1128"JRemove this unused import 'org.apache.http.client.methods.HttpUriRequest'.(İÄÇĞıÿÿÿÿ8Úé¥û·.
+e
+java:S1128"CRemove this unused import 'org.apache.http.client.ResponseHandler'.(§ï¡±úÿÿÿÿ8Úé¥û·.
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¿şål
+Z
+java:S1128">Remove this unused import 'org.apache.http.params.HttpParams'.(¿óìR8Úé¥û·.
